@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_button_description">A button that takes you to the next page when clicked</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="bio">BIO:</string>
+    <string name="public_repository">Public Repository:</string>
+    <string name="public_gists">Public gists:</string>
+    <string name="updated_at">Updated at:</string>
+    <string name="id">ID:</string>
+</resources>
